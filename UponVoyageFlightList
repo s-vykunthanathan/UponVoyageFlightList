@@ -1,0 +1,44 @@
+{
+    "destinations": [
+        {
+            "name": "Paris",
+            "flightCost": 750,
+            "image": "https://example.com/images/paris.jpg"
+        },
+        {
+            "name": "Tokyo",
+            "flightCost": 900,
+            "image": "https://example.com/images/tokyo.jpg"
+        },
+        {
+            "name": "Mexico City",
+            "flightCost": 225,
+            "image": "https://example.com/images/capetown.jpg"
+        },
+        {
+            "name": "New York",
+            "flightCost": 600,
+            "image": "https://example.com/images/newyork.jpg"
+        },
+        {
+            "name": "Lisbon",
+            "flightCost": 300,
+            "image": "https://example.com/images/capetown.jpg"
+        },
+        {
+            "name": "Sydney",
+            "flightCost": 1200,
+            "image": "https://example.com/images/sydney.jpg"
+        },
+        {
+            "name": "Cape Town",
+            "flightCost": 1100,
+            "image": "https://example.com/images/capetown.jpg"
+        },
+        {
+            "name": "London",
+            "flightCost": 350,
+            "image": "https://example.com/images/capetown.jpg"
+        }
+    ]
+}
