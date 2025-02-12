@@ -2,43 +2,51 @@
     "destinations": [
         {
             "name": "Paris",
-            "flightCost": 750,
-            "image": "https://example.com/images/paris.jpg"
+            "flightCost": "750",
+            "image": "https://example.com/images/paris.jpg", 
+            "region": "Europe"
         },
         {
             "name": "Tokyo",
-            "flightCost": 900,
-            "image": "https://example.com/images/tokyo.jpg"
+            "flightCost": "900",
+            "image": "https://example.com/images/tokyo.jpg",
+            "region": "Asia"
         },
         {
             "name": "Mexico City",
-            "flightCost": 225,
-            "image": "https://example.com/images/capetown.jpg"
+            "flightCost": "225",
+            "image": "https://example.com/images/capetown.jpg",
+            "region": "North America"
         },
         {
             "name": "New York",
-            "flightCost": 600,
-            "image": "https://example.com/images/newyork.jpg"
+            "flightCost": "600",
+            "image": "https://example.com/images/newyork.jpg",
+            "region": "North America"
         },
         {
             "name": "Lisbon",
-            "flightCost": 300,
-            "image": "https://example.com/images/capetown.jpg"
+            "flightCost": "300",
+            "image": "https://example.com/images/capetown.jpg", 
+            "region": "Europe"
         },
         {
             "name": "Sydney",
-            "flightCost": 1200,
-            "image": "https://example.com/images/sydney.jpg"
+            "flightCost": "1200",
+            "image": "https://example.com/images/sydney.jpg",
+            "region": "Oceania"
         },
         {
             "name": "Cape Town",
-            "flightCost": 1100,
+            "flightCost": "1100",
             "image": "https://example.com/images/capetown.jpg"
+            "region": "Africa"
         },
         {
             "name": "London",
             "flightCost": 350,
             "image": "https://example.com/images/capetown.jpg"
+            "region": "Europe"
         }
     ]
 }
